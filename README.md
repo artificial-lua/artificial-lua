@@ -1,6 +1,6 @@
 # Good day!
 Artificial Lua, 2021-06-16  
-[Profile Page](project-geek.cc/profile.html)
+[Profile Page](https://project-geek.cc/profile.html)
 
 ## Work with...
 
