@@ -1,16 +1,30 @@
-### Hi there 👋
+# Good day, mate
+Artificial Lua, 2021-06-16
 
-<!--
-**artificial-lua/artificial-lua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work with...
 
-Here are some ideas to get you started:
+### Client - PC
+- C / C++
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Client - Android
+- Java
+
+### Client - Web
+- Javascript
+  - Ajax
+
+### Server
+- C / C++
+- Python
+- Node.js
+- MariaDB
+
+### OS
+- CentOS
+- Ubuntu
+- Fedora
+
+
+### Contect me
+artificial_lua@naver.com
