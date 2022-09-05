@@ -1,6 +1,6 @@
 # Good day!
-Artificial Lua, 2021-06-17  
-[Profile Page](https://project-geek.cc/profile.html)
+Artificial Lua
+[Profile Page](https://profile.project-geek.cc/)
 
 ### Contect me
 artificialluamail@gmail.com
